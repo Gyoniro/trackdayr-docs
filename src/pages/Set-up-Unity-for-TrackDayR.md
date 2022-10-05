@@ -11,7 +11,7 @@ First download the current Unity version, [2022.10.f1](https://unity3d.com/get-u
 ## Quick installation:  
 
 [Download]( https://github.com/onighiri975/TDR-track-tool-2022.git) “Code” as Zip, and once downloaded export it in a folder of your choice.   
-![Download code](trackdayr-docs/public/assets/images/Gioniro/1.jpg "Download Code")  
+![Download code](public/assets/images/1.jpg "Download Code")  
 1) Open Unity and create empty HDRP project.  
 2) Open Window->package manager menu;  
 3) click on (+) icon and add from disk, import your downloaded pack;  
